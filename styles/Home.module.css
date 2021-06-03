@@ -120,3 +120,18 @@
     flex-direction: column;
   }
 }
+
+.lightContainer {
+  background-color: #121212;
+  border: 1px solid gray;
+  border-radius: 10px;
+  padding: 2rem;
+}
+
+.light {
+  height: 150px;
+  width: 150px;
+  margin-top: 1rem;
+  border-radius: 9999px;
+  background-color: grey;
+}
