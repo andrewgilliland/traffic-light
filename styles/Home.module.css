@@ -134,4 +134,9 @@
   margin-top: 1rem;
   border-radius: 9999px;
   background-color: grey;
+  opacity: 0.5;
+}
+
+.lightOn {
+  opacity: 1;
 }
